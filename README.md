@@ -59,8 +59,7 @@ I overthink everything… but I still code confidently 😄💕
 ---
 
 ## 💌 Connect With Me  
-📧 Email: hemalathamuddada59@gmail.com 
-
+📧 Email: add your email here  
 📝 Portfolio: Coming soon…  
 
 ---
