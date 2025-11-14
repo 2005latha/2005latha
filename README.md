@@ -1,102 +1,88 @@
-<!-- ===== Two-column GitHub Profile README (Sidebar + Main) ===== -->
-<table width="100%">
-  <tr>
-    <!-- LEFT SIDEBAR -->
-    <td valign="top" width="32%" style="padding-right:20px;">
-      <!-- Profile pic -->
-      <p align="center">
-        <img src="https://avatars.githubusercontent.com/2005latha?s=200&v=4" alt="profile" width="150" style="border-radius:50%;"/>
-      </p>
+<h1 align="center">👋 Hi, I'm Hema Latha</h1>
 
-      <!-- Quick info -->
-      <h3 align="center">👋 Hi, I'm Hemalatha</h3>
-      <p align="center">AI & ML Student • B.Tech<br/>Andhra Pradesh, India</p>
+<p align="center">
+  💙 <b>AI & Machine Learning Enthusiast</b> | Python Learner | Future Engineer  
+</p>
 
-      <!-- Contact buttons -->
-      <p align="center">
-        <a href="https://www.linkedin.com/in/Hemalatha Muddada" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-        </a>
-        <a href="mailto:hemalathamuddada59@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-        </a>
-        <a href="https://github.com/2005latha" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
+---
 
-      <!-- Key achievements -->
-      <h4>🏆 Key Achievements</h4>
-      <ul>
-        <li>Published research on Deep Learning</li>
-        <li>Deployed ML/AI projects</li>
-        <li>GPA: 8.5/10</li>
-      </ul>
+## 🚀 About Me  
+- 🎓 AI & ML Engineering Student  
+- 🌱 Currently learning *Python, Java, ML & Cloud*  
+- 🧠 Strong focus on improving basics & logic  
+- 💼 Teaching tuition from 6 PM to 9 PM  
+- 🌍 Based in *Andhra Pradesh, India*
 
-      <!-- Tech stack (vertical) -->
-      <h4>⚙ Tech Stack</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <br/>
-        <img src="https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white"/> <br/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <br/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <br/>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <br/>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <br/>
-      </p>
+---
 
-      <!-- Small personal note -->
-      <h4>💬 Quick</h4>
-      <p>Phone girl • Overthinker • Tutor • Learning AI & Cloud</p>
-    </td>
+## 🔗 Connect With Me  
+<!-- Replace YOUR_LINK with your LinkedIn URL -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](Hemalatha Muddada)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemalathamuddada59@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2005latha)
 
-    <!-- RIGHT MAIN CONTENT -->
-    <td valign="top" width="68%" style="border-left:1px solid #eaeaea; padding-left:20px;">
-      <!-- Header / Title -->
-      <h1>👋 Hi, I'm <strong>Hemalatha Muddada</strong></h1>
-      <p style="font-size:16px; margin-top: -8px;">
-        Aspiring Developer • Java | Python | AI • Building practical projects and learning fundamentals.
-      </p>
+---
 
-      <!-- Featured projects -->
-      <h3>📂 Featured Projects</h3>
-      <table>
-        <tr>
-          <td valign="top" width="48%">
-            <b>Number Guessing Game</b><br/>
-            Python console game — logic, input validation, scoring.<br/><br/>
-            <b>Calculator App</b><br/>
-            Python Tkinter / CLI — basic arithmetic operations.
-          </td>
-          <td valign="top" width="48%">
-            <b>Word Guess Game</b><br/>
-            Python — string handling & game loops.<br/><br/>
-            <b>Basic Website</b><br/>
-            HTML/CSS — portfolio landing page.
-          </td>
-        </tr>
-      </table>
+## 🏆 Key Achievements  
+- 📘 Completed multiple mini–projects in Python  
+- 🧪 Hands-on with small ML concepts  
+- 🎯 Gaining strong coding foundation  
+- 🤝 Teaching juniors & helping them grow  
 
-      <!-- GitHub stats -->
-      <h3>📊 GitHub Stats</h3>
-      <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=2005latha&show_icons=true&theme=radical" width="48%" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2005latha&layout=compact&theme=radical" width="48%" />
-      </p>
+---
 
-      <!-- More about / contact -->
-      <h3>🔎 About & Contact</h3>
-      <p>
-        I'm a B.Tech student learning AI & ML, strengthening Java fundamentals, and practicing problem solving. I also teach tuition in evenings — I enjoy explaining concepts clearly.
-      </p>
+## 🔥 Core Expertise  
+- Machine Learning (Beginner)  
+- Data Analysis  
+- Python Programming  
+- Java Basics  
+- AI Concepts (Learning)
 
-      <p>
-        ✉ <strong>Email:</strong> <a href="mailto:YOUR_EMAIL">YOUR_EMAIL</a><br/>
-        🌐 <strong>Portfolio:</strong> <a href="YOUR_PORTFOLIO">YOUR_PORTFOLIO</a><br/>
-      </p>
+---
 
-      <hr/>
+## 🧰 Tech Stack & Skills  
 
-      <p align="center">💖 Thanks for visiting — feel free to connect!</p>
-    </td>
-  </tr>
-</table>
+### 🔹 Languages  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### 🔹 Python Libraries  
+<p>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge"/>
+</p>
+
+### 🔹 Tools  
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
+---
+
+## 📌 Currently Working On  
+- Strengthening *Python + ML*
+- Learning Java (Loops, OOP)
+- Basics of Cloud  
+- Building small ML projects  
+
+---
+
+## 💫 Fun Fact  
+I’m a cute little *overthinker, beautiful, and a full-on **phone girl* 📱💖
+       
+      
+
+   
+        
+       
+
+     
