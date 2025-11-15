@@ -17,8 +17,8 @@
 
 ## 🔗 Connect With Me  
 <!-- Replace YOUR_LINK with your LinkedIn URL -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemalatha-muddada-b4b27831a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemalathamuddada59@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2005latha)
 
 ---
@@ -68,10 +68,13 @@
 
 ---
 
-## 📂 Featured Repositories  
-<!-- Replace YOUR_REPOSITORY_NAME with your repo name -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2005latha&repo=YOUR_REPOSITORY_NAME)](https://github.com/2005latha/YOUR_REPOSITORY_NAME)
+## 📂 Featured Repositories    
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2005latha&repo=2005latha)](https://github.com/2005latha/2005latha)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2005latha&repo=Journey_smart_compare)](https://github.com/2005latha/Journey_smart_compare)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2005latha&repo=industrial_ai_sensor)](https://github.com/2005latha/industrial_ai_sensor)
 ---
 
 ## 📌 Currently Working On  
