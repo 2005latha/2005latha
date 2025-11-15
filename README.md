@@ -17,8 +17,8 @@
 
 ## 🔗 Connect With Me  
 <!-- Replace YOUR_LINK with your LinkedIn URL -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemalatha-muddada-b4b27831a)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemalathamuddada59@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2005latha)
 
 ---
@@ -68,9 +68,15 @@
 
 ---
 
+## 📂 Featured Repositories  
+<!-- Replace YOUR_REPOSITORY_NAME with your repo name -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2005latha&repo=YOUR_REPOSITORY_NAME)](https://github.com/2005latha/YOUR_REPOSITORY_NAME)
+
+---
+
 ## 📌 Currently Working On  
-- Strengthening *Python + ML*
-- Learning Java (Loops, OOP)
+- Strengthening *Python + ML*  
+- Learning Java (Loops, OOP)  
 - Basics of Cloud  
 - Building small ML projects  
 
@@ -78,7 +84,6 @@
 
 ## 💫 Fun Fact  
 I’m a cute little *overthinker, beautiful, and a full-on **phone girl* 📱💖
-       
       
 
    
