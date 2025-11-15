@@ -74,7 +74,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2005latha&repo=Journey-smart-compare)](https://github.com/2005latha/Journey-smart-compare)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2005latha&repo=industrial-ai-sensor)](https://github.com/2005latha/industrial-ai-sensor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2005latha&repo=industrial-ai-sensor-watch)](https://github.com/2005latha/industrial-ai-sensor-watch)
 ---
 
 ## 📌 Currently Working On  
