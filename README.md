@@ -72,9 +72,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2005latha&repo=2005latha)](https://github.com/2005latha/2005latha)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2005latha&repo=Journey_smart_compare)](https://github.com/2005latha/Journey_smart_compare)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2005latha&repo=Journey-smart-compare)](https://github.com/2005latha/Journey-smart-compare)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2005latha&repo=industrial_ai_sensor)](https://github.com/2005latha/industrial_ai_sensor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2005latha&repo=industrial-ai-sensor)](https://github.com/2005latha/industrial-ai-sensor)
 ---
 
 ## 📌 Currently Working On  
